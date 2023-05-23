@@ -14,6 +14,8 @@
 Разбираюсь в классических алгоритмах машинного обучения и нейронных сетей. Использовал Apache Airflow для автоматизации и Apache Superset для построения дашбордов.
   
 <br/>
+
+- 📘 Закончил обучение по направлению Data science
   
 - 🏁 Прошел стажировку по аналитике данных  
   
@@ -50,7 +52,9 @@
 
 <br/>  
 
-### Сертификаты:
+### Диплом и сертификаты:
+
+![Diplom](https://github.com/DypuJIko/DypuJIko/blob/main/diplom-andrey-komissarov.png)
 
 ![Analyst](https://github.com/DypuJIko/DypuJIko/blob/main/karpov-courses.png)
 
@@ -69,13 +73,24 @@
 ### Статистика:  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DypuJIko&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=DypuJIko&theme=dark&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DypuJIko&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DypuJIko&theme=dark&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
+
+<!-- <table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=DypuJIko&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DypuJIko&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table> -->
 
 <br/>  
 
