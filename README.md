@@ -1,27 +1,24 @@
-## Привет 👋, я Комиссаров Андрей!  
-  
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Привет,+меня+зовут+Андрей!)](https://git.io/typing-svg)
 
-<a href="https://github.com/DypuJIko" target="_blank">
+ <!-- <a href="https://github.com/DypuJIko" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://ru.stackoverflow.com/users/529307/komissarov-andrey" target="_blank">
+</a> -->
+<!-- <a href="https://ru.stackoverflow.com/users/529307/komissarov-andrey" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-  
+</a> -->
+
 <br/>
 
 ### Немного о себе:  
-Я начинающий Data scientist. Изучил основы Python, SQL, Машинного обучения и нейронных сетей. Знаком с математическим анализом, линейной алгеброй, статистикой и теорией вероятности.
+Я начинающий Data scientist. Начал развиваться в этом направлении в начале 2022 года. Изучил основы Python. Владею SQL для написания разных запросов. Знаком с математическим анализом, линейной алгеброй, статистикой и теорией вероятности.
+Разбираюсь в классических алгоритмах машинного обучения и нейронных сетей. Использовал Apache Airflow для автоматизации и Apache Superset для построения дашбордов.
   
 <br/>
   
 - 🏁 Прошел стажировку по аналитике данных  
   
-
 - 👨‍💼 Активно ищу работу  
-  
-
+ 
 - 💬 Как со мной связаться [![Telegram Badge](https://img.shields.io/badge/-andreykomissarov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/andreykomissarov69)
 
 <br/>
@@ -55,7 +52,17 @@
 
 ### Сертификаты:
 
+![Analyst](https://github.com/DypuJIko/DypuJIko/blob/main/karpov-courses.png)
 
+Ссылка на сертификат: https://lab.karpov.courses/certificate/75d3a976-e285-4609-8c2e-7c6e73aa0840/
+
+![Linux](https://github.com/DypuJIko/DypuJIko/blob/main/certificate-linux.png)
+
+Ссылка на сертификат: https://stepik.org/cert/1979126
+
+![Python](https://github.com/DypuJIko/DypuJIko/blob/main/certificate-python.png)
+
+Ссылка на сертификат: https://stepik.org/cert/1501414
 
 <br/>
 
