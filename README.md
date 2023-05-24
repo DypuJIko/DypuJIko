@@ -21,7 +21,7 @@
   
 - 👨‍💼 Активно ищу работу  
  
-- 💬 Как со мной связаться [![Telegram Badge](https://img.shields.io/badge/-andreykomissarov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/andreykomissarov69)
+- 💬 Как со мной связаться [![Telegram Badge](https://img.shields.io/badge/-andreykomissarov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/andreykomissarov69) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:andrey.komissarov.tver@gmail.com)
 
 <br/>
 
