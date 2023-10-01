@@ -61,6 +61,10 @@
 
 Ссылка на сертификат: https://lab.karpov.courses/certificate/75d3a976-e285-4609-8c2e-7c6e73aa0840/
 
+![Statistic](https://github.com/DypuJIko/DypuJIko/blob/main/certificate-statistic.png)
+
+Ссылка на сертификат: https://stepik.org/cert/2191618
+
 ![Linux](https://github.com/DypuJIko/DypuJIko/blob/main/certificate-linux.png)
 
 Ссылка на сертификат: https://stepik.org/cert/1979126
